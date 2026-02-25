@@ -1,0 +1,16 @@
+Feb 25 08:00:01 webserver sshd[1234]: Accepted publickey for deploy from 192.168.1.10 port 52341 ssh2
+Feb 25 08:01:44 webserver sshd[1235]: Failed password for root from 203.0.113.77 port 44231 ssh2
+Feb 25 08:01:45 webserver sshd[1235]: Failed password for root from 203.0.113.77 port 44231 ssh2
+Feb 25 08:01:46 webserver sshd[1235]: Failed password for root from 203.0.113.77 port 44231 ssh2
+Feb 25 08:01:47 webserver sshd[1235]: Failed password for root from 203.0.113.77 port 44231 ssh2
+Feb 25 08:01:47 webserver sshd[1235]: Failed password for admin from 203.0.113.77 port 44231 ssh2
+Feb 25 08:01:48 webserver sshd[1235]: Failed password for ubuntu from 203.0.113.77 port 44231 ssh2
+Feb 25 08:01:49 webserver sshd[1235]: Failed password for pi from 203.0.113.77 port 44231 ssh2
+Feb 25 08:01:50 webserver sshd[1236]: Connection closed by 203.0.113.77 port 44231 [preauth]
+Feb 25 08:05:00 webserver sudo[1240]: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Feb 25 08:10:00 webserver sshd[1241]: Accepted password for alice from 192.168.1.100 port 58201 ssh2
+Feb 25 09:00:00 webserver sudo[1310]: bob : TTY=pts/1 ; PWD=/var/log ; USER=root ; COMMAND=/bin/cat /var/log/auth.log
+Feb 25 03:17:22 webserver sshd[2001]: Accepted password for backup_svc from 198.51.100.88 port 61001 ssh2
+Feb 25 03:17:35 webserver sudo[2005]: backup_svc : TTY=pts/2 ; PWD=/ ; USER=root ; COMMAND=/bin/bash
+Feb 25 03:18:01 webserver useradd[2010]: new user: name=svc_exfil, UID=1337, GID=1337, home=/tmp/.hidden
+Feb 25 10:00:00 webserver sshd[3000]: Accepted publickey for deploy from 192.168.1.10 port 52499 ssh2
