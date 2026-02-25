@@ -65,7 +65,7 @@ SecureFlow addresses this by building an automated pipeline that ingests raw log
 
 ## Performance Targets
 
-> ⚠️ Numbers below are planning targets. Actual benchmarks will be recorded in `scripts/benchmark.py` and updated here post-implementation.
+>  Numbers below are planning targets. Actual benchmarks will be recorded in `scripts/benchmark.py` and updated here post-implementation.
 
 | Metric | Target |
 |---|---|
