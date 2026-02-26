@@ -146,4 +146,6 @@ See full structure in [`docs/architecture.md`](docs/architecture.md).
 ## Author
 
 **hexwrk** — BSc IT | Cybersecurity & Data Analytics  
+**SecSolutions** — BSc IT | Cybersecurity & Data Analytics  
+
 Built as a flagship portfolio project demonstrating full-stack security engineering.
