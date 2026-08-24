@@ -10,4 +10,5 @@ Rules:
 
 Build target: Month 1.
 """
+
 # TODO Month 1
